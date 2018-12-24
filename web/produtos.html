@@ -9,6 +9,7 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/produtos.css">
 		<link rel="stylesheet" href="css/responsivo.css">
+		<script src="js/libs/modernizr.custom.45655.js"></script>
 	</head>
 	<body>
 
@@ -35,7 +36,7 @@
 			</div>
 		</section>
 
-		<section class="container produto_item">
+		<section class="container produto_item animar-interno">
 			<div class="grid-11">
 				<img src="img/produtos/bikcraft-passeio-1.jpg" alt="Bikcraft Passeio">
 				<h2>Passeio</h2>
@@ -92,16 +93,23 @@
 		<section class="orcamento">
 			<div class="container">
 				<h2 class="subtitulo">Orçamento</h2>
-				<form id="form_orcamento" class="form grid-8">
+				<form action="enviar.php" method="post" name="form" class="formphp form grid-8">
 					<label for="nome">Nome</label>
-					<input type="text" id="nome">
+					<input id="nome" name="nome" type="text">
 					<label for="email">E-mail</label>
-					<input type="text" id="email">
+					<input id="email" name="email" type="text">
 					<label for="telefone">Telefone</label>
-					<input type="text" id="telefone">
-					<label for="espec">Especificações</label>
-					<textarea id="espec"></textarea>
-					<button type="submit" class="btn">Enviar</button>
+					<input id="telefone" name="telefone" type="text">
+
+					<label class="nao-aparece">Se você não é um robô, deixe em branco.</label>
+					<input type="text" class="nao-aparece" name="leaveblank">
+					<label class="nao-aparece">Se você não é um robô, não mude este campo.</label>
+					<input type="text" class="nao-aparece" name="dontchange" value="http://" >
+
+					<label for="mensagem">Especificações</label>
+					<textarea name="mensagem" id="mensagem"></textarea>
+
+					<button id="enviar" name="enviar" type="submit" class="btn">Enviar</button>
 				</form>
 				<div class="orcamento_dados grid-8">
 					<h3>Dados</h3>
@@ -163,6 +171,12 @@
 				</div>
 			</div>
 		</footer>
+
+	<!-- JavaScript -->
+	<script src="js/libs/jquery-1.11.2.min.js"></script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+	<!-- JavaScript -->
 
 	</body>
 </html>

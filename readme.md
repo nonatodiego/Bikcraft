@@ -1,38 +1,47 @@
 # Website_Bikcraft
-Website Bikcraft é um projeto do curso <a href="https://www.origamid.com">Origamid</a> 
+O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a href="https://www.origamid.com">Origamid</a> 
 
 # Demo do site
 
 <a href="#"> Bikcraf DEMO </a>
  
-# Estrutura de arquivos
+# Estrutura do Projeto
 
 <h3>Design</h3>
 <ul> 
-  <li>Design-PNG</li>
-  <li>Design-PSD</li>
-  <li>Wireframe</li> 
-  <li>Icones Redes Sociais</li>
-</ul>  
+  <li>UI/UX</li>
+  <li>Cores</li>
+  <li>Tipografia</li>
+  <li>Grid</li> 
+  <li>Wireframe</li>   
+</ul>
+  
+<hr>
 
-<h3>Planejamento</h3>
+<h3>Códificação</h3>
 <ul>
-  <li>bikcraft_briefing.pdf</li>
-  <li>bikcraft_ai</li>
-  <li>estilo-tipografia-cores</li>
- </ul>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>Normalise, Reset e Grid</li>
+  <li>Responsividade</li>
+  <li>JavaScript</li>
+  <li>Jquery</li>
+  <li>Animate</li>
+  <li>Modernizir</li>
+  <li>Visibility</li>
+</ul>
  
- <h3>Web</h3>
- <ul>
-  <li>css</li>
-  <li>img</li>
-  <li>js</li>
-  <li>contato.html</li>
-  <li>esporte.html</li>
-  <li>index.html</li>
-  <li>passeio.html</li>
-  <li>portfolio.html</li>
-  <li>produtos.html</li>
-  <li>retro.html</li>
-  <li>sobre.html</li>
-</ul>  
+ <hr>
+
+ <h3>Ajustes Finais</h3>
+ <ul>  
+  <li>Formulário com PHPMailer</li>
+  <li>SEO</li>
+  <li>Otimização</li>
+  <li>Domínio</li>
+  <li>Hospegadem</li>
+  <li>Analytics</li>   
+</ul>
+
+
+
