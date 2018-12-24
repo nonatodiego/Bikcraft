@@ -18,7 +18,7 @@ O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a 
   
 <hr>
 
-<h3>Códificação</h3>
+<h3>Codificação</h3>
 <ul>
   <li>HTML 5</li>
   <li>CSS 3</li>
