@@ -12,11 +12,14 @@ Website Bikcraft é um projeto do curso <a href="https://www.origamid.com">Origa
   <li>Design-PNG</li>
   <li>Design-PSD</li>
   <li>Wireframe</li> 
+  <li>Icones Redes Sociais</li>
 </ul>  
 
 <h3>Planejamento</h3>
 <ul>
   <li>bikcraft_briefing.pdf</li>
+  <li>bikcraft_ai</li>
+  <li>estilo-tipografia-cores</li>
  </ul>
  
  <h3>Web</h3>
