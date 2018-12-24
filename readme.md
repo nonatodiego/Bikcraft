@@ -3,7 +3,7 @@ O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a 
 
 # Demo do site
 
-<a href="Bikcraft - Bicicletas Personalizadas"> Bikcraf </a>
+<a href="Bikcraft - Bicicletas Personalizadas"> Bikcraft </a>
  
 # Estrutura do Projeto
 
