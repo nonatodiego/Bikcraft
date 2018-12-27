@@ -1,6 +1,6 @@
 <?php
 
-// Mudar Aqui
+// Mudar Aqui o e-mail
 
 $email_envio = ''; // E-mail receptor
 $email_pass = ''; // Senha do e-mail
