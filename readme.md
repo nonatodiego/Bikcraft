@@ -44,4 +44,8 @@ O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a 
 </ul>
 
 
+# GIF do projeto
+
+![](bikcraft.gif)
+
 
