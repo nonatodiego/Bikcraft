@@ -1,9 +1,9 @@
 # Website_Bikcraft
 O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a href="https://www.origamid.com">Origamid</a> 
 
-# Demo do site
 
-<a href="http://bikcraft.com/"> Bikcraft </a>
+
+:computer: <a href="http://bikcraft.com/"> Demo </a>
  
 # Estrutura do Projeto
 
