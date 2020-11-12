@@ -25,18 +25,20 @@ Projeto desenvolvido durante as aulas do curso <a href="https://www.origamid.com
 
 ## Tecnologias & Estruturas :rocket:
 
-- HTML5 
-- CSS3
-* Normalise, Reset e Grid
-* Responsividade
-- JavaScript
-* Jquery
-* Animate
-* Modernizir
-* Visibility
+**HTML5** 
+
+**CSS3**
+- Normalise, Reset e Grid
+- Responsividade
+
+**JavaScript**
+- Jquery
+- Animate
+- Modernizir
+
 - Formulário com PHPMailer
-* SEO
-* Analytics
+- SEO
+- Analytics
 
 
 
