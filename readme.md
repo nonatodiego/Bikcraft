@@ -37,8 +37,7 @@ Projeto desenvolvido durante as aulas do curso <a href="https://www.origamid.com
 - Modernizir
 
 **Formulário com PHPMailer**
-**SEO**
-**Analytics**
+
 
 
 
