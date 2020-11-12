@@ -27,16 +27,16 @@ Projeto desenvolvido durante as aulas do curso <a href="https://www.origamid.com
 
 - HTML5 
 - CSS3
- - Normalise, Reset e Grid
- -Responsividade
+* Normalise, Reset e Grid
+* Responsividade
 - JavaScript
- - Jquery
- - Animate
- - Modernizir
- - Visibility
- - Formulário com PHPMailer
- - SEO
- - Analytics
+* Jquery
+* Animate
+* Modernizir
+* Visibility
+- Formulário com PHPMailer
+* SEO
+* Analytics
 
 
 
