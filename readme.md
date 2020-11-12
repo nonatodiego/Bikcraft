@@ -3,7 +3,7 @@ O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a 
 
 
 
-:computer: <a href="http://bikcraft.com/"> Demo </a>
+:computer: <a href="https://bikcraft-blond.vercel.app/index.html"> Demo </a>
  
 # Estrutura do Projeto
 
