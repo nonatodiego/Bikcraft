@@ -10,9 +10,9 @@
 
 
 ## Apresentação do Projeto :sparkles:
-<p align="center"> 
- ![](bikcraft.gif)
-</p> 
+
+![](bikcraft.gif)
+
 ---
 
 ## Sobre :memo:
