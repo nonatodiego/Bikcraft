@@ -1,51 +1,60 @@
-# Website_Bikcraft
-O website Bikcraft é um projeto que eu desenvolvi durante as aulas do curso <a href="https://www.origamid.com">Origamid</a> 
+<h1>Bikcraft | Origamid </h1>
 
 
-
-:computer: <a href="https://bikcraft-blond.vercel.app/index.html"> Demo </a>
- 
-# Estrutura do Projeto
-
-<h3>Design</h3>
-<ul> 
-  <li>UI/UX</li>
-  <li>Cores</li>
-  <li>Tipografia</li>
-  <li>Grid</li> 
-  <li>Wireframe</li>   
-</ul>
-  
-<hr>
-
-<h3>Codificação</h3>
-<ul>
-  <li>HTML 5</li>
-  <li>CSS 3</li>
-  <li>Normalise, Reset e Grid</li>
-  <li>Responsividade</li>
-  <li>JavaScript</li>
-  <li>Jquery</li>
-  <li>Animate</li>
-  <li>Modernizir</li>
-  <li>Visibility</li>
-</ul>
- 
- <hr>
-
- <h3>Ajustes Finais</h3>
- <ul>  
-  <li>Formulário com PHPMailer</li>
-  <li>SEO</li>
-  <li>Otimização</li>
-  <li>Domínio</li>
-  <li>Hospegadem</li>
-  <li>Analytics</li>   
-</ul>
+<p align="center">
+<a href="#sobre-memo">Sobre</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#tecnologias-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#como-contribuir-">Como Contribuir</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+</p>
 
 
-# Projeto Final
+## Apresentação do Projeto :sparkles:
 
 ![](bikcraft.gif)
+
+---
+
+## Sobre :memo:
+
+Projeto desenvolvido durante as aulas do curso <a href="https://www.origamid.com">Origamid</a> 
+
+## Demonstração :computer:
+<p align="center">
+ :computer: <a href="https://bikcraft-blond.vercel.app/index.html"> Demo </a>
+</p>  
+
+## Tecnologias & Estruturas :rocket:
+
+- HTML5 
+- CSS3
+ - Normalise, Reset e Grid
+ -Responsividade
+- JavaScript
+ - Jquery
+ - Animate
+ - Modernizir
+ - Visibility
+ - Formulário com PHPMailer
+ - SEO
+ - Analytics
+
+
+
+## Como contribuir 🤔
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+## Licença :scroll:
+
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+##### Feito por Diego Nonato :wave:
+
 
 
