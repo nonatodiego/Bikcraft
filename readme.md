@@ -10,9 +10,9 @@
 
 
 ## Apresentação do Projeto :sparkles:
-
-![](bikcraft.gif)
-
+<p align="center"> 
+ ![](bikcraft.gif)
+</p> 
 ---
 
 ## Sobre :memo:
@@ -20,9 +20,8 @@
 Projeto desenvolvido durante as aulas do curso <a href="https://www.origamid.com">Origamid</a> 
 
 ## Demonstração :computer:
-<p align="center">
+
  :computer: <a href="https://bikcraft-blond.vercel.app/index.html"> Demo </a>
-</p>  
 
 ## Tecnologias & Estruturas :rocket:
 
